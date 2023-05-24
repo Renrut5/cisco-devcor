@@ -1,0 +1,6 @@
+# Python
+venv/
+
+# Ignore all in files folder except README
+files/*
+!files/README.md
