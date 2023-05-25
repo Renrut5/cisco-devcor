@@ -4,11 +4,12 @@ The 350-901 DEVCOR exam is split into five different topics, each with an equal 
 
 The official page listing the exam objectives can be found at https://learningnetwork.cisco.com/s/devcor-exam-topics.
 
-- [1.0 - Software Development and Design (20%)](#1.0---Software-Development-and-Design-(20%))
-- [2.0 - Using APIs (20%)](#2.0---Using-APIs-(20%))
-- [3.0 - Cisco Platforms (20%)](#3.0---Cisco-Platforms-(20%))
-- [4.0 - Application Deployment and Security (20%)](#4.0---Application-Deployment-and-Security-(20%))
-- [5.0 - Infrastructure and Automation (20%)](#5.0---Infrastructure-and-Automation-(20%))
+- [DEVCOR Exam Topics](#devcor-exam-topics)
+  - [1.0 - Software Development and Design (20%)](#10---software-development-and-design-20)
+  - [2.0 - Using APIs (20%)](#20---using-apis-20)
+  - [3.0 - Cisco Platforms (20%)](#30---cisco-platforms-20)
+  - [4.0 - Application Deployment and Security (20%)](#40---application-deployment-and-security-20)
+  - [5.0 - Infrastructure and Automation (20%)](#50---infrastructure-and-automation-20)
 
 This page can be used as a tool to help keep track of the different objectives. As you continue on your certification journey, you can check off the objectives you feel comfortable with providing you with an easy to track list of topics you have completed and what is remaining.
 
